@@ -1,13 +1,14 @@
-本笔记严格遵守授课教授版权并不会直接使用授课教授的内容
+#本笔记严格遵守授课教授版权并不会直接使用授课教授的内容
 This set of study notes strictly complies with the copyright of the course lecturer, and no original content from the lecturer is reproduced directly.
 
 #github注册选择学校邮箱，并记录双重登录，以确保后续获得github的教育优惠（双因素认证，github账单信息，摄像头提交学术隶属文件，录取信件）
 Register for GitHub using your university email address and set up two-factor authentication (2FA) to ensure eligibility for GitHub’s student education benefits later. 
 Required materials include two-factor authentication setup details, GitHub billing information, academic affiliation documents, and admission letter which need to be submitted via camera upload.
 
-本课程对编程语言的要求，第一，Java 7（为简化赋值，不允许使用更高版本的 Java）第二，Java IDE（Eclipse 或 IntelliJ 可接受）第三，Git 和 GitHub第四，JUnit 3.8
+#本课程对编程语言的要求，第一，Java 7（为简化赋值，不允许使用更高版本的 Java）第二，Java IDE（Eclipse 或 IntelliJ 可接受）第三，Git 和 GitHub第四，JUnit 3.8
 codeLanguage requirements for this course:
 Java 7 only.
 Java IDE: Eclipse or IntelliJ IDEA are acceptable options.
 Git and GitHub version control tools.
 JUnit 3.8 testing framework.
+
